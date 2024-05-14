@@ -18,6 +18,6 @@ PS: I'm not an Apple Developer, so I won't be able to assist you with any Xcode-
 
 Resources:
 
-https://developer.apple.com/documentation/sms_and_call_reporting/sms_and_mms_message_filtering
-https://developer.apple.com/videos/play/wwdc2022/110341/
-https://devstreaming-cdn.apple.com/videos/wwdc/2017/249alewpia5158ow5k/249/249_filtering_unwanted_messages_with_identity_lookup.pdf
+- https://developer.apple.com/documentation/sms_and_call_reporting/sms_and_mms_message_filtering
+- https://developer.apple.com/videos/play/wwdc2022/110341/
+- https://devstreaming-cdn.apple.com/videos/wwdc/2017/249alewpia5158ow5k/249/249_filtering_unwanted_messages_with_identity_lookup.pdf
