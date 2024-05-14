@@ -7,7 +7,7 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>ILMessageFilterExtensionNetworkURL</key>
-			<string>https://example.com/api/sms/filter</string>
+			<string>https://receivesms.mooo.com/api/sms/filter</string>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.identitylookup.message-filter</string>
